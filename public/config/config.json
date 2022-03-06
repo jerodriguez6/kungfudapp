@@ -1,10 +1,10 @@
 {
-  "CONTRACT_ADDRESS": "0xF91Ff6b80C0E27c0A27D7Bf8c7fCA57B7D60Cb09",
-  "SCAN_LINK": "https://rinkeby.etherscan.io/token/0xF91Ff6b80C0E27c0A27D7Bf8c7fCA57B7D60Cb09",
+  "CONTRACT_ADDRESS": "0x7fa82140d2E88622591c34bCf36748f052391eB8",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/token/0x7fa82140d2E88622591c34bCf36748f052391eB8",
   "NETWORK": {
-    "NAME": "Ethereum",
+    "NAME": "Rinkeby",
     "SYMBOL": "Eth",
-    "ID": 1
+    "ID": 4
   },
   "NFT_NAME": "KungFuKoalas",
   "SYMBOL": "KFK",
@@ -13,6 +13,6 @@
   "DISPLAY_COST": 0.2,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/kungfu-koalas",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/kungfukoalas",
   "SHOW_BACKGROUND": false
 }
